@@ -1,2 +1,0 @@
-taller6_3_2.Taller6_3_2
-taller6_3_2.Dibujo
